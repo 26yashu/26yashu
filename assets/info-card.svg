@@ -60,10 +60,10 @@
 <text x="168" y="485.5" font-size="10" class="bright">Git, GitHub, VS Code, Jupyter …</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.95s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.35s" begin="0.95s" fill="freeze"/><text x="34" y="522.3" font-size="10.5" fill="#b06bff" font-weight="700">projects</text>
-<text x="168" y="522.3" font-size="10" class="bright">Eco-Vision • RAFT • NyayVandan</text><text x="168" y="535.3" font-size="10" class="bright">Sable AI • Sakhi AI • SquadPlay</text>
+<text x="168" y="522.3" font-size="10" class="bright">Eco-Vision • RAFT • NyayVandan</text><text x="168" y="535.3" font-size="10" class="bright">Sable AI • Sakhi AI </text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.01s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.35s" begin="1.01s" fill="freeze"/><text x="34" y="559.2" font-size="10.5" fill="#ff9f43" font-weight="700">achievements</text>
-<text x="168" y="559.2" font-size="10" class="bright">CGPA 9.10 / 10.0 in B.Tech CSE (AI &amp; ML); Built 6+ ...</text>
+<text x="168" y="559.2" font-size="10" class="bright">CGPA 9.10 / 10.0 in B.Tech CSE (AI &amp; ML) </text>
 </g>
 <rect x="34" y="587.0" width="6" height="10" fill="#3ddc84" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.47s" fill="freeze"/><animate attributeName="opacity" values="1;0;1" dur="1s" begin="1.67s" repeatCount="indefinite"/></rect>
 </svg>
